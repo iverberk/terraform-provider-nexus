@@ -228,3 +228,5 @@ require (
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
 	mvdan.cc/unparam v0.0.0-20220926085101-66de63301820 // indirect
 )
+
+replace github.com/datadrivers/go-nexus-client => github.com/iverberk/go-nexus-client v1.5.1-timeout
